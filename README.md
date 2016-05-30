@@ -36,6 +36,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
   - [RNA-Seq](#rna-seq)
   - [ChIP-Seq](#chip-seq)
   - [Humor](#humor)
+  - [Blogs](#blogs)
   - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
@@ -177,6 +178,13 @@ The following tools can be used to visualize genomic data or for constructing cu
 ### Humor
 
 * [A History Of Bioinformatics (In The Year 2039)](http://video.open-bio.org/video/1/a-history-of-bioinformatics-in-the-year-2039) - A talk by C. Titus Brown on his take of looking back at bioinformatics from the year 2039. His notes for this talk can be found [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
+
+### Blogs
+
+* [Bits of DNA](https://liorpachter.wordpress.com/) - "Reviews and commentary on computational biology by Lior Pachter."
+* [Getting Genetics Done](http://www.gettinggeneticsdone.com/) - Dr. Stephen Turner's blog on "Getting Genetics Done." It "aims to fill that gap by featuring software, code snippets, literature of interest, workflow philosophy, and anything else that can boost productivity and simplify getting things done in human genetics research."
+* [Building Confidence](https://rbaltman.wordpress.com/) - Dr. Russ Altman's blog lately featuring his anticipated AMIA "Year in Review" presentations on biomedical informatics and translational bioinformatics.
+* [it is NOT junk](http://www.michaeleisen.org/blog/) - Dr. Michael Eisen's blog "about genomes, DNA, evolution, open science, baseball and other important things."
 
 ### Miscellaneous
 
